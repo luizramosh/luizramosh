@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**luizramosh/luizramosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+Meu nome é Luiz Ramos e sou estudante de Análise e Desenvolvimento de Sistemas, com interesse pelo campo de desenvolvimento front-end.  
+Tenho me dedicado à criação de interfaces web modernas, responsivas e voltadas para a experiência do usuário.  
+Atualmente, venho desenvolvendo projetos práticos com HTML, CSS e JavaScript, buscando consolidar conhecimentos e evoluir tecnicamente em ambientes colaborativos e desafiadores.
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que desenvolvo e utilizo:
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+## 📫 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/luizramosh/)  
+- 📧 luizramosh@hotmail.com
