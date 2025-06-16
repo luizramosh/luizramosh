@@ -1,4 +1,5 @@
 # Olá! 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizramosh&layout=compact)
 
 <div align="justify">
 Meu nome é Luiz Ramos e sou estudante de Análise e Desenvolvimento de Sistemas, com interesse pelo campo de desenvolvimento front-end.  
