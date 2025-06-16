@@ -9,6 +9,7 @@ Atualmente, venho desenvolvendo projetos práticos com HTML, CSS e JavaScript, b
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizramosh&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizramosh&theme=algolia)
 
 
