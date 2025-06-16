@@ -9,7 +9,8 @@ Atualmente, venho desenvolvendo projetos práticos com HTML, CSS e JavaScript, b
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizramosh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizramosh&theme=algolia)
+
 
 ## 🚀 Tecnologias que desenvolvo e utilizo:
 - HTML5  
