@@ -1,11 +1,15 @@
 # Olá! 👋
 
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
 
-<div align="justify">
-Meu nome é Luiz Ramos e sou estudante de Análise e Desenvolvimento de Sistemas.  
-Tenho me dedicado à criação de interfaces web modernas, responsivas e voltadas para a experiência do usuário.  
-Atualmente, venho desenvolvendo projetos práticos com HTML, CSS e JavaScript, buscando consolidar conhecimentos e evoluir tecnicamente em ambientes colaborativos e desafiadores.
-</div>
+🌐 Foco em interfaces web modernas e responsivas  
+
+💻 Desenvolvimento prático com HTML, CSS e JavaScript  
+
+🚀 Busca constante por evolução técnica  
+
+✉️ Contato: luizramosh@hotmail.com
+
 
 ---
 
