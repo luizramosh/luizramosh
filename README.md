@@ -6,8 +6,6 @@
 
 💻 Desenvolvimento prático com HTML, CSS e JavaScript  
 
-🚀 Busca constante por evolução técnica  
-
 ✉️ Contato: luizramosh@hotmail.com
 
 
@@ -21,6 +19,7 @@
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)
+
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/luizramosh/)  
