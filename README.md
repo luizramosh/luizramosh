@@ -11,7 +11,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizramosh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizramosh&show_icons=true&theme=algolia&cache_seconds=60)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizramosh&theme=algolia)
 
